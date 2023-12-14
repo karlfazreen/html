@@ -1,11 +1,6 @@
 </html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
-<title>Domain Seized by Law Enforcement</title>
-<style>
-body { background-color: #303030; }
-p { margin: auto; text-align: center; max-width: 1100px; font-size: 20px; font-weight: bold; color: #ffffff; margin-bottom: 20px; }
-</style>
 <meta name='google-adsense-platform-account' content='ca-host-pub-1556223355139109'/>
 <meta name='google-adsense-platform-domain' content='blogspot.com'/>
 </head>
